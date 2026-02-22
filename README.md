@@ -65,7 +65,7 @@ I build **scalable industrial dashboards** and **production-ready web applicatio
 ## 📫 Contact Me
 
 - **LinkedIn:** [Ali Vedaei](www.linkedin.com/in/ali-vedaei-260199369)  
-- **Email:** ali.ahmadi.dev@gmail.com  
+- **Email:** ali.vedaei.dev@gmail.com  
 - **GitHub:** [https://github.com/AliVedaei](https://github.com/AliVedaei)
 
 ---
