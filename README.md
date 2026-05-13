@@ -1,4 +1,4 @@
-# Hi there, I'm Ali Vedaee
+# Hi there, I'm Ali Vedaei
 
 Frontend Developer specializing in **React**, **Next.js**, and **Tailwind CSS**.  
 I build **scalable industrial dashboards** and **production-ready web applications** for real-world projects.
